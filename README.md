@@ -7,3 +7,4 @@ simple calculator and a number decimal number converter to any base number
 2. cd into the repo.
 3. run ```pip install kivy```
 4. run ```python3 TEST.py```
+5. The you are done.
